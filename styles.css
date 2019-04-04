@@ -1,0 +1,36 @@
+body {
+  background-color: lightblue;
+}
+
+.div_titulo {
+  display: flex;
+  justify-content: center;
+  font-size: 40px;
+  font-family: 'Lato', sans-serif;
+}
+
+.formulario_container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.div_formulario {
+  background-color: white;
+  width: 50%;
+}
+
+.div_formulario_titulo {
+  display: flex;
+  justify-content: center;
+  font-family: 'Lato', sans-serif;
+  font-size: 24px;
+}
+
+.div_formulario_main {
+  padding-left: 3.5em;
+  padding-bottom: 2em;
+  font-family: 'Lato', sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
